@@ -1,2 +1,2 @@
 ## Page List
-###<a href="page/pertemuan5-labrj.html">Pertemuan 5 - Praktikum Routing Jaringan</a>
+### <a href="pertemuan5-labrj.html">Pertemuan 5 - Praktikum Routing Jaringan</a>
