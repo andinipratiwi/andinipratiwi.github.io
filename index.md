@@ -1,2 +1,5 @@
+---
+layout: default
+---
 ## Page List
-### <a href="pertemuan5-labrj.html">Pertemuan 5 - Praktikum Routing Jaringan</a>
+### [Pertemuan 5 - Praktikum Routing Jaringan](pertemuan5-labrj.html/ "RIP V2")
